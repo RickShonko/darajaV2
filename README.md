@@ -1,4 +1,4 @@
-# M-Pesa STK Push Integration
+# M-Pesa STK Push Integration with node.js(express)
 
 A simple web application that integrates with Safaricom's Daraja API to initiate M-Pesa STK Push payments.
 
